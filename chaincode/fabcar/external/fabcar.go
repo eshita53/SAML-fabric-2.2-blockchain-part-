@@ -9,7 +9,6 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-
 	"github.com/hyperledger/fabric-chaincode-go/shim"
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
 )

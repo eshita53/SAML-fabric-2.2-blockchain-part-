@@ -42,6 +42,7 @@ popd
 
 cat <<EOF
 
+
 Total setup execution time : $(($(date +%s) - starttime)) secs ...
 
 Next, use the FabCar applications to interact with the deployed FabCar contract.
